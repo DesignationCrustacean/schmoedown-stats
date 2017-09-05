@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+    <color name="schmoedownGreen">#70ff8f</color>
+    <color name="celebSchmoeBlue">#42d6ff</color>
+    <color name="starWarsYellow">#ffb641</color>
+    <color name="transparent">#00000000</color>
+    <color name="darkGrey">#333333</color>
+    <color name="darkishGrey">#666666</color>
+    <color name="darkerGrey">#555555</color>
+    <color name="accent">#63e880</color>
+    <color name="lightGrey">#bbbbbb</color>
+    <color name="listItemDark">#eeeeee</color>
+    <color name="lightishGrey">#dbdbdb</color>
+    <color name="lighterGrey">#dddddd</color>
+    <color name="holoLight">#f3f3f3</color>
+    <color name="defaultBackground">#fafafa</color>
+
+</resources>

@@ -1,0 +1,812 @@
+{
+  "competitor": [
+    {
+      "first_name": "John",
+      "surname": "Rocha",
+      "nickname": "'The Outlaw' John Rocha",
+      "wins": "9",
+      "losses": "3",
+      "ko": "4",
+      "rank": "1",
+      "current_belts": [],
+      "past_belts": [
+        {
+          "belt": "Schmoedown Singles Championship"
+        }
+      ],
+      "current_teams": [
+        {
+          "team": "Top 10"
+        }
+      ],
+      "past_teams": [],
+      "current_factions": [
+        {
+          "faction": "four horsemen"
+        }
+      ],
+      "past_factions": [],
+      "active": "true",
+      "innergeekdom": "false",
+      "geek_wins": "0",
+      "geek_losses": "0",
+      "geek_knockouts": "0",
+      "geek_rank": "0",
+      "celebrity": "false",
+      "star_wars": "false",
+      "star_wars_wins": "0",
+      "star_wars_losses": "0",
+      "star_wars_knockouts": "0",
+      "image_name": "rocha"
+    },
+    {
+      "first_name": "Mark",
+      "surname": "Reilly",
+      "nickname": "Mark 'Yodi' Reilly",
+      "wins": "7",
+      "losses": "2",
+      "ko": "2",
+      "rank": "2",
+      "current_belts": [
+        {
+          "belt": "Schmoedown Singles Championship"
+        }
+      ],
+      "past_belts": [],
+      "current_teams": [
+        {
+          "team": "Wolves of Steel"
+        }
+      ],
+      "past_teams": [],
+      "current_factions": [],
+      "past_factions": [],
+      "active": "true",
+      "innergeekdom": "false",
+      "geek_wins": "0",
+      "geek_losses": "0",
+      "geek_knockouts": "0",
+      "geek_rank": "0",
+      "celebrity": "false",
+      "star_wars": "false",
+      "star_wars_wins": "0",
+      "star_wars_losses": "0",
+      "star_wars_knockouts": "0",
+      "image_name": "reilly"
+    },
+    {
+      "first_name": "Mark",
+      "surname": "Ellis",
+      "nickname": "Mark 'Baby Carrots' Ellis",
+      "wins": "6",
+      "losses": "2",
+      "ko": "1",
+      "rank": "5",
+      "current_belts": [],
+      "past_belts": [],
+      "current_teams": [
+        {
+          "team": "Schmoes"
+        }
+      ],
+      "past_teams": [],
+      "current_factions": [],
+      "past_factions": [],
+      "active": "true",
+      "innergeekdom": "false",
+      "geek_wins": "0",
+      "geek_losses": "0",
+      "geek_knockouts": "0",
+      "geek_rank": "0",
+      "celebrity": "false",
+      "star_wars": "false",
+      "star_wars_wins": "0",
+      "star_wars_losses": "0",
+      "star_wars_knockouts": "0",
+      "image_name": "ellis"
+    },
+    {
+      "first_name": "Kristian",
+      "surname": "Harloff",
+      "nickname": "'The Commissioner' Kristian Harloff",
+      "wins": "6",
+      "losses": "1",
+      "ko": "5",
+      "rank": "6",
+      "current_belts": [],
+      "past_belts": [],
+      "current_teams": [
+        {
+          "team": "Schmoes"
+        }
+      ],
+      "past_teams": [],
+      "current_factions": [],
+      "past_factions": [],
+      "active": "true",
+      "innergeekdom": "false",
+      "geek_wins": "0",
+      "geek_losses": "0",
+      "geek_knockouts": "0",
+      "geek_rank": "0",
+      "celebrity": "false",
+      "star_wars": "false",
+      "star_wars_wins": "0",
+      "star_wars_losses": "0",
+      "star_wars_knockouts": "0",
+      "image_name": "harloff"
+    },
+    {
+      "first_name": "Dan",
+      "surname": "Murrell",
+      "nickname": "'Dangerous' Dan Murrell",
+      "wins": "7",
+      "losses": "1",
+      "ko": "5",
+      "rank": "3",
+      "current_belts": [],
+      "past_belts": [
+        {
+          "belt": "Schmoedown Singles Championship"
+        }
+      ],
+      "current_teams": [],
+      "past_teams": [],
+      "current_factions": [],
+      "past_factions": [
+        {
+          "faction": "The Lion's Den"
+        }
+      ],
+      "active": "true",
+      "innergeekdom": "false",
+      "geek_wins": "0",
+      "geek_losses": "0",
+      "geek_knockouts": "0",
+      "geek_rank": "0",
+      "celebrity": "false",
+      "star_wars": "false",
+      "star_wars_wins": "0",
+      "star_wars_losses": "0",
+      "star_wars_knockouts": "0",
+      "image_name": "murrell"
+    },
+    {
+      "first_name": "William",
+      "surname": "Bibbiani",
+      "nickname": "William 'The Beast' Bibbiani",
+      "wins": "2",
+      "losses": "2",
+      "ko": "2",
+      "rank": "7",
+      "current_belts": [],
+      "past_belts": [],
+      "current_teams": [],
+      "past_teams": [],
+      "current_factions": [
+        {
+          "faction": "The Four Horsemen"
+        }
+      ],
+      "past_factions": [],
+      "active": "true",
+      "innergeekdom": "false",
+      "geek_wins": "0",
+      "geek_losses": "0",
+      "geek_knockouts": "0",
+      "geek_rank": "0",
+      "celebrity": "false",
+      "star_wars": "false",
+      "star_wars_wins": "0",
+      "star_wars_losses": "0",
+      "star_wars_knockouts": "0",
+      "image_name": "bibbiani"
+    },
+    {
+      "first_name": "Josh",
+      "surname": "Macuga",
+      "nickname": "Josh 'The Wildman' Macuga",
+      "wins": "5",
+      "losses": "4",
+      "ko": "2",
+      "rank": "8",
+      "current_belts": [],
+      "past_belts": [],
+      "current_teams": [],
+      "past_teams": [
+        {
+          "team": "The Megapowers"
+        }
+      ],
+      "current_factions": [],
+      "past_factions": [],
+      "active": "true",
+      "innergeekdom": "false",
+      "geek_wins": "0",
+      "geek_losses": "0",
+      "geek_knockouts": "0",
+      "geek_rank": "0",
+      "celebrity": "false",
+      "star_wars": "false",
+      "star_wars_wins": "0",
+      "star_wars_losses": "0",
+      "star_wars_knockouts": "0",
+      "image_name": "macuga"
+    },
+    {
+      "first_name": "Robert",
+      "surname": "Meyer Burnett",
+      "nickname": "'The Captain' Robert Meyer-Burnett",
+      "wins": "0",
+      "losses": "0",
+      "ko": "0",
+      "rank": "0",
+      "current_belts": [],
+      "past_belts": [],
+      "current_teams": [
+        {
+          "team": "Heroes"
+        }
+      ],
+      "past_teams": [],
+      "current_factions": [
+        {
+          "faction": "The Four Horsemen"
+        }
+      ],
+      "past_factions": [],
+      "active": "true",
+      "innergeekdom": "True",
+      "geek_wins": "3",
+      "geek_losses": "2",
+      "geek_knockouts": "0",
+      "geek_rank": "3",
+      "celebrity": "false",
+      "star_wars": "false",
+      "star_wars_wins": "0",
+      "star_wars_losses": "0",
+      "star_wars_knockouts": "0",
+      "image_name": "burnett"
+    },
+    {
+      "first_name": "Hector",
+      "surname": "Navarro",
+      "nickname": "Hector 'The Nightmare' Navarro",
+      "wins": "0",
+      "losses": "0",
+      "ko": "0",
+      "rank": "0",
+      "current_belts": [
+        {
+          "belt": "Innergeekdom Championship"
+        }
+      ],
+      "past_belts": [],
+      "current_teams": [],
+      "past_teams": [],
+      "current_factions": [],
+      "past_factions": [],
+      "active": "true",
+      "innergeekdom": "true",
+      "geek_wins": "3",
+      "geek_losses": "1",
+      "geek_knockouts": "1",
+      "geek_rank": "1",
+      "celebrity": "false",
+      "star_wars": "false",
+      "star_wars_wins": "0",
+      "star_wars_losses": "0",
+      "star_wars_knockouts": "0",
+      "image_name": "navarro"
+    },
+    {
+      "first_name": "Jeremy",
+      "surname": "Jahns",
+      "nickname": "'The Joker' Jeremy Jahns",
+      "wins": "0",
+      "losses": "0",
+      "ko": "0",
+      "rank": "0",
+      "current_belts": [],
+      "past_belts": [],
+      "current_teams": [],
+      "past_teams": [],
+      "current_factions": [],
+      "past_factions": [],
+      "active": "true",
+      "innergeekdom": "true",
+      "geek_wins": "2",
+      "geek_losses": "1",
+      "geek_knockouts": "0",
+      "geek_rank": "2",
+      "celebrity": "false",
+      "star_wars": "true",
+      "star_wars_wins": "0",
+      "star_wars_losses": "1",
+      "star_wars_knockouts": "0",
+      "image_name": "jahns"
+
+    },
+    {
+      "first_name": "John",
+      "surname": "Campea",
+      "nickname": "John 'The Crazy Canadian' Campea",
+      "wins": "2",
+      "losses": "1",
+      "ko": "0",
+      "rank": "0",
+      "current_belts": [],
+      "past_belts": [],
+      "current_teams": [],
+      "past_teams": [
+        {
+          "team": "Heroes"
+        }
+      ],
+      "current_factions": [],
+      "past_factions": [],
+      "active": "false",
+      "innergeekdom": "true",
+      "geek_wins": "0",
+      "geek_losses": "1",
+      "geek_knockouts": "0",
+      "geek_rank": "0",
+      "celebrity": "false",
+      "star_wars": "true",
+      "star_wars_wins": "0",
+      "star_wars_losses": "2",
+      "star_wars_knockouts": "0",
+      "image_name": "campea"
+    },
+    {
+      "first_name": "Clarke",
+      "surname": "Wolfe",
+      "nickname": "'Classy' Clarke Wolfe",
+      "wins": "4",
+      "losses": "2",
+      "ko": "1",
+      "rank": "4",
+      "current_belts": [],
+      "past_belts": [],
+      "current_teams": [
+        {
+          "team": "Wolves of Steel"
+        }
+      ],
+      "past_teams": [],
+      "current_factions": [],
+      "past_factions": [],
+      "active": "true",
+      "innergeekdom": "false",
+      "geek_wins": "0",
+      "geek_losses": "0",
+      "geek_knockouts": "0",
+      "geek_rank": "0",
+      "celebrity": "false",
+      "star_wars": "false",
+      "star_wars_wins": "0",
+      "star_wars_losses": "0",
+      "star_wars_knockouts": "0",
+      "image_name": "classy"
+    },
+    {
+      "first_name": "Jeff",
+      "surname": "Sneider",
+      "nickname": "Jeff 'The Insneider' Sneider",
+      "wins": "3",
+      "losses": "1",
+      "ko": "1",
+      "rank": "9",
+      "current_belts": [],
+      "past_belts": [],
+      "current_teams": [
+        {
+          "team": "Patriots"
+        }
+      ],
+      "past_teams": [],
+      "current_factions": [
+        {
+          "faction": "Lion's Den"
+        }
+      ],
+      "past_factions": [],
+      "active": "false",
+      "innergeekdom": "true",
+      "geek_wins": "0",
+      "geek_losses": "1",
+      "geek_knockouts": "0",
+      "geek_rank": "0",
+      "celebrity": "false",
+      "star_wars": "false",
+      "star_wars_wins": "0",
+      "star_wars_losses": "0",
+      "star_wars_knockouts": "0",
+      "image_name": "sneider"
+    },
+    {
+      "first_name": "Josh",
+      "surname": "Tapia",
+      "nickname": "'Little Evil' JTE",
+      "wins": "4",
+      "losses": "3",
+      "ko": "1",
+      "rank": "10",
+      "current_belts": [],
+      "past_belts": [],
+      "current_teams": [
+        {
+          "team": "Patriots"
+        }
+      ],
+      "past_teams": [],
+      "current_factions": [
+        {
+          "faction": "Lion's Den"
+        }
+      ],
+      "past_factions": [],
+      "active": "false",
+      "innergeekdom": "true",
+      "geek_wins": "0",
+      "geek_losses": "0",
+      "geek_knockouts": "0",
+      "geek_rank": "0",
+      "celebrity": "false",
+      "star_wars": "false",
+      "star_wars_wins": "0",
+      "star_wars_losses": "0",
+      "star_wars_knockouts": "0",
+      "image_name": "jte"
+    },
+    {
+      "first_name": "Jonathan",
+      "surname": "Rhys-Meyers",
+      "nickname": "Jonathan Rhys-Meyers",
+      "wins": "1",
+      "losses": "0",
+      "ko": "0",
+      "rank": "0",
+      "current_belts": [],
+      "past_belts": [],
+      "current_teams": [],
+      "past_teams": [],
+      "current_factions": [],
+      "past_factions": [],
+      "active": "true",
+      "innergeekdom": "false",
+      "geek_wins": "0",
+      "geek_losses": "0",
+      "geek_knockouts": "0",
+      "geek_rank": "0",
+      "celebrity": "true",
+      "star_wars": "false",
+      "star_wars_wins": "0",
+      "star_wars_losses": "0",
+      "star_wars_knockouts": "0",
+      "image_name": "jonathanrhysmeyers"
+    }
+  ],
+
+  "team": [
+    {
+      "name": "Heroes",
+      "current_members": [
+        {
+          "member": "Jon Schnepp"
+        },
+        {
+          "member": "Hector Navarro"
+        }
+      ],
+      "past_members": [
+        {
+          "member": "John Campea"
+        },
+        {
+          "member": "Robert Meyer Burnett"
+        }
+      ],
+      "wins": "3",
+      "losses": "1",
+      "kos": "0",
+      "rank": "4",
+      "current_belts": [],
+      "past_belts": [],
+      "active": "true",
+      "celebrity": "false",
+      "star_wars": "false",
+      "star_wars_wins": "0",
+      "star_wars_losses": "0",
+      "star_wars_knockouts": "0",
+      "image_name": "heroes"
+    },
+    {
+      "name": "Schmoes",
+      "current_members": [
+        {
+          "member": "Kristian \"The Commissioner\" Harloff"
+        },
+        {
+          "member": "Mark \"Baby Carrots\" Ellis"
+        }
+      ],
+      "past_members":[],
+      "wins": "8",
+      "losses": "2",
+      "kos": "4",
+      "rank": "7",
+      "current_belts": [],
+      "past_belts": [
+        {
+          "belt": "Schmoedown Team Championship"
+        }
+      ],
+      "active": "true",
+      "celebrity": "false",
+      "star_wars": "false",
+      "star_wars_wins": "0",
+      "star_wars_losses": "0",
+      "star_wars_knockouts": "0",
+      "image_name": "schmoes"
+    },
+    {
+      "name": "Team Rangers",
+      "current_members": [
+        {
+          "member": "RJ Cyler"
+        },
+        {
+          "member": "Dacre Montgomery"
+        }
+      ],
+      "past_members": [],
+      "wins": "0",
+      "losses": "1",
+      "kos": "0",
+      "rank": "0",
+      "current_belts": [],
+      "past_belts": [],
+      "active": "true",
+      "celebrity": "true",
+      "star_wars": "false",
+      "star_wars_wins": "0",
+      "star_wars_losses": "0",
+      "star_wars_knockouts": "0",
+      "image_name": "teamrangers"
+    },
+    {
+      "name": "Team Power",
+      "current_members": [
+        {
+          "member": "Becky G"
+        },
+        {
+          "member": "Ludi Lin"
+        }
+      ],
+      "past_members": [],
+      "wins": "1",
+      "losses": "0",
+      "kos": "0",
+      "rank": "0",
+      "current_belts": [],
+      "past_belts": [],
+      "active": "true",
+      "celebrity": "true",
+      "star_wars": "false",
+      "star_wars_wins": "0",
+      "star_wars_losses": "0",
+      "star_wars_knockouts": "0",
+      "image_name": "teampower"
+    },
+    {
+      "name": "Wolves of Steel",
+      "current_members": [
+        {
+          "member": "Mark Reilly"
+        },
+        {
+          "member": "Clarke Wolfe"
+        }
+      ],
+      "past_members": [],
+      "wins": "8",
+      "losses": "1",
+      "kos": "3",
+      "rank": "3",
+      "current_belts": [],
+      "past_belts": [],
+      "active": "true",
+      "celebrity": "false",
+      "star_wars": "false",
+      "star_wars_wins": "0",
+      "star_wars_losses": "0",
+      "star_wars_knockouts": "0",
+      "image_name": "wolves"
+    },
+    {
+      "name": "Top 10",
+      "current_members": [
+        {
+          "member": "John Rocha"
+        },
+        {
+          "member": "Matt Knost"
+        }
+      ],
+      "past_members": [],
+      "wins": "7",
+      "losses": "2",
+      "kos": "2",
+      "rank": "2",
+      "current_belts": [],
+      "past_belts": [
+        {
+          "belt": "Schmoedown Team Championship"
+        }
+      ],
+      "active": "true",
+      "celebrity": "false",
+      "star_wars": "false",
+      "star_wars_wins": "0",
+      "star_wars_losses": "0",
+      "star_wars_knockouts": "0",
+      "image_name": "top10"
+    },
+    {
+      "name": "Patriots",
+      "current_members": [
+        {
+          "member": "Jeff Sneider"
+        },
+        {
+          "member": "JTE"
+        }
+      ],
+      "past_members": [],
+      "wins": "8",
+      "losses": "0",
+      "kos": "3",
+      "rank": "1",
+      "current_belts": [
+        {
+          "belt": "Schmoedown Team Championship"
+        }
+      ],
+      "past_belts": [],
+      "active": "true",
+      "celebrity": "false",
+      "star_wars": "false",
+      "star_wars_wins": "0",
+      "star_wars_losses": "0",
+      "star_wars_knockouts": "0",
+      "image_name": "patriots"
+    },
+    {
+      "name": "The Nerd's Watch",
+      "current_members": [
+        {
+          "member": "Ken Napzok"
+        },
+        {
+          "member": "Rachel Cushing"
+        }
+      ],
+      "past_members": [],
+      "wins": "3",
+      "losses": "1",
+      "kos": "1",
+      "rank": "5",
+      "current_belts": [],
+      "past_belts": [],
+      "active": "true",
+      "celebrity": "false",
+      "star_wars": "false",
+      "star_wars_wins": "0",
+      "star_wars_losses": "0",
+      "star_wars_knockouts": "0",
+      "image_name": "nerds"
+    },
+    {
+      "name": "Blofeld's Cat",
+      "current_members": [
+        {
+          "member": "Robert Meyer-Burnett"
+        },
+        {
+          "member": "Marc Andreyko"
+        }
+      ],
+      "past_members": [],
+      "wins": "1",
+      "losses": "0",
+      "kos": "0",
+      "rank": "9",
+      "current_belts": [],
+      "past_belts": [],
+      "active": "true",
+      "celebrity": "false",
+      "star_wars": "false",
+      "star_wars_wins": "0",
+      "star_wars_losses": "0",
+      "star_wars_knockouts": "0",
+      "image_name": "cat"
+    },
+    {
+      "name": "Critically Acclaimed",
+      "current_members": [
+        {
+          "member": "William Bibbiani"
+        },
+        {
+          "member": "Witney Siebold"
+        }
+      ],
+      "past_members": [],
+      "wins": "2",
+      "losses": "0",
+      "kos": "0",
+      "rank": "10",
+      "current_belts": [],
+      "past_belts": [],
+      "active": "true",
+      "celebrity": "false",
+      "star_wars": "false",
+      "star_wars_wins": "0",
+      "star_wars_losses": "0",
+      "star_wars_knockouts": "0",
+      "image_name": "criticallyacclaimed"
+    },
+    {
+      "name": "Six Degrees",
+      "current_members": [
+        {
+          "member": "Brianne Chandler"
+        },
+        {
+          "member": "Stacy Howard"
+        }
+      ],
+      "past_members": [],
+      "wins": "3",
+      "losses": "2",
+      "kos": "0",
+      "rank": "8",
+      "current_belts": [],
+      "past_belts": [],
+      "active": "true",
+      "celebrity": "false",
+      "star_wars": "false",
+      "star_wars_wins": "0",
+      "star_wars_losses": "0",
+      "star_wars_knockouts": "0",
+      "image_name": "six"
+    },
+    {
+      "name": "MODOK",
+      "current_members": [
+        {
+          "member": "Matt Atchity"
+        },
+        {
+          "member": "Grae Drake"
+        }
+      ],
+      "past_members": [],
+      "wins": "4",
+      "losses": "2",
+      "kos": "2",
+      "rank": "6",
+      "current_belts": [],
+      "past_belts": [],
+      "active": "true",
+      "celebrity": "false",
+      "star_wars": "false",
+      "star_wars_wins": "0",
+      "star_wars_losses": "0",
+      "star_wars_knockouts": "0",
+      "image_name": "modok"
+    }
+  ]
+}

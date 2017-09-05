@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+          package="com.crustacean.designation.schmoedownstats">
+
+    <uses-permission android:name="android.permission.INTERNET"/>
+    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE"/>
+
+    <application
+        android:allowBackup="true"
+        android:icon="@mipmap/applogolight"
+        android:label="@string/app_name"
+        android:roundIcon="@mipmap/applogolight"
+        android:supportsRtl="true"
+        android:theme="@style/AppTheme">
+        <activity
+            android:name=".activity.MainActivity"
+            android:label="@string/app_name"
+            android:screenOrientation="portrait"
+            android:theme="@style/AppTheme.NoActionBar"
+            android:windowSoftInputMode="adjustPan">
+            <intent-filter android:label="@string/launcher_name">
+                <action android:name="android.intent.action.MAIN"/>
+
+                <category android:name="android.intent.category.LAUNCHER"/>
+            </intent-filter>
+
+            <meta-data
+                android:name="android.app.searchable"
+                android:resource="@xml/searchable"/>
+        </activity>
+        <activity android:name=".activity.SchmoedownActivity">
+        </activity>
+        <activity android:name=".activity.InnergeekdomActivity">
+        </activity>
+        <activity android:name=".activity.CelebrityActivity">
+        </activity>
+        <activity android:name=".activity.StarWarsActivity">
+        </activity>
+
+        <provider
+            android:name=".data.CompetitorContentProvider"
+            android:authorities="com.crustacean.designation.schmoedownstats.competitor"
+            android:exported="false"/>
+        <provider
+            android:name=".data.TeamContentProvider"
+            android:authorities="com.crustacean.designation.schmoedownstats.team"
+            android:exported="false"/>
+
+        <activity
+            android:name=".activity.CompetitorDetailActivity"
+            android:screenOrientation="portrait"/>
+        <activity
+            android:name=".activity.TeamDetailActivity"
+            android:screenOrientation="portrait"/>
+        <activity
+            android:name=".activity.InnergeekdomDetailActivity"
+            android:screenOrientation="portrait">
+        </activity>
+        <activity
+            android:name=".activity.StarWarsDetailActivity"
+            android:screenOrientation="portrait">
+        </activity>
+    </application>
+
+</manifest>

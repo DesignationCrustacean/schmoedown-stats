@@ -1,0 +1,55 @@
+<resources>
+    <string name="app_name">Schmoedown Stats</string>
+    <string name="launcher_name">Schmoe- down Stats</string>
+    <string name="search_title">Search</string>
+    <string name="action_sort">Sort</string>
+    <string name="schmoedown_singles">Schmoedown Singles</string>
+    <string name="rank">Rank</string>
+    <string name="wins">Wins</string>
+    <string name="losses">Losses</string>
+    <string name="kos">KOs</string>
+    <string name="name_label">Name:</string>
+    <string name="nickname_label">Nickname:</string>
+    <string name="current_belts_label">Current Belts:</string>
+    <string name="past_belts_label">Past Belts:</string>
+    <string name="current_teams_label">Current Teams:</string>
+    <string name="cont_desc_competitor_image">Competitor Image</string>
+    <string name="innergeekdom">Innergeekdom</string>
+    <string name="star_wars_schmoedown">Star Wars Schmoedown</string>
+    <string name="not_applicable">N/A</string>
+    <string name="team_schmoedown">Team Schmoedown</string>
+    <string name="cont_desc_team_image">Team Image</string>
+    <string name="team_name_label">Team Name:</string>
+    <string name="current_members_label">Current Members:</string>
+    <string name="past_members_label">Past Members:</string>
+    <string name="celebrity_schmoedown">Celebrity Schmoedown</string>
+    <string name="db_update_message">Updating\n SchmoeDB</string>
+    <string name="belt_starwars">Star Wars Belt</string>
+    <string name="belt_innergeekdom">Innergeekdom Championship</string>
+    <string name="none">None</string>
+    <string name="belt_singles">Schmoedown Singles Championship</string>
+    <string name="star_wars">Star Wars</string>
+    <string name="innergeekdom_championship">Innergeekdom Championship</string>
+    <string name="mts">Movie Trivia Schmoedown</string>
+    <string name="new_db_version_message">New DB Version available: Please update app for latest stats</string>
+    <string name="belt_team">Schmoedown Team Championship</string>
+    <string name="belt_starwars_team">Star Wars Team Belt</string>
+    <string name="schmoedown">Schmoedown</string>
+    <string name="which_profile">Which profile would you like to view for this competitor?</string>
+    <string name="past_teams_label">Past Teams:</string>
+    <string name="img_base_url">https://bit.ly/schmwdnstts-</string>
+    <string name="list_separator">, </string>
+    <string name="key_schmoedown">schmoedown</string>
+    <string name="key_celebrity">celebrity</string>
+    <string name="key_innergeekdom">innergeekdom</string>
+    <string name="key_star_wars">star_wars</string>
+    <string name="key_competitor">competitor</string>
+    <string name="key_team">team</string>
+    <string name="celeb_schmoedown">Celeb Schmoedown</string>
+    <string name="icon">icon</string>
+
+    <string-array name="sort_array">
+        <item>Singles</item>
+        <item>Teams</item>
+    </string-array>
+</resources>
